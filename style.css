@@ -1,1 +1,18 @@
 
+.menu{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.d{
+    justify-content: space-between;
+}
+
+
+img {
+    width: 200px;
+    height: 100px;
+    max-width: 100%;
+    max-height: 100%;
+}
